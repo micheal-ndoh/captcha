@@ -1,0 +1,15 @@
+{
+    "client_key": "your client_key",
+    "max_hours": 24,
+    "min_delay": 5,
+    "max_delay": 15,
+    "earnings_per_captcha": 0.001,
+    "log_level": "INFO",
+    "log_file": "earning_worker.log",
+    "stats_file": "earning_stats.json",
+    "timeout": 120,
+    "poll_interval": 5,
+    "server": "2captcha.com",
+    "accept_rate": 0.8,
+    "max_concurrent": 1
+}

@@ -14,7 +14,6 @@ ENV/
 earning_worker.log
 
 # Config (contains sensitive data)
-earning_config.json
 
 # IDE
 .vscode/
